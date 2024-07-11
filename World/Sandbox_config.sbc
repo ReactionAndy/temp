@@ -17,7 +17,7 @@
     <TotalPCU>100000</TotalPCU>
     <PiratePCU>50000</PiratePCU>
     <MaxFactionsCount>0</MaxFactionsCount>
-    <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
+    <BlockLimitsEnabled>PER_FACTION</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
@@ -26,7 +26,7 @@
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
     <CargoShipsEnabled>true</CargoShipsEnabled>
-    <EnableSpectator>true</EnableSpectator>
+    <EnableSpectator>false</EnableSpectator>
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>false</RespawnShipDelete>
     <ResetOwnership>false</ResetOwnership>
@@ -43,7 +43,7 @@
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
-    <EnableIngameScripts>true</EnableIngameScripts>
+    <EnableIngameScripts>false</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
@@ -60,10 +60,10 @@
     <UpdateRespawnDictionary>false</UpdateRespawnDictionary>
     <CanJoinRunning>false</CanJoinRunning>
     <PhysicsIterations>8</PhysicsIterations>
-    <SunRotationIntervalMinutes>40</SunRotationIntervalMinutes>
+    <SunRotationIntervalMinutes>119.999992</SunRotationIntervalMinutes>
     <EnableJetpack>true</EnableJetpack>
     <SpawnWithTools>true</SpawnWithTools>
-    <BlueprintShareTimeout>30</BlueprintShareTimeout>
+    <BlueprintShareTimeout>24</BlueprintShareTimeout>
     <BlueprintShare>true</BlueprintShare>
     <StartInRespawnScreen>false</StartInRespawnScreen>
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
@@ -77,13 +77,13 @@
     <BlockTypeLimits>
       <dictionary />
     </BlockTypeLimits>
-    <EnableScripterRole>true</EnableScripterRole>
+    <EnableScripterRole>false</EnableScripterRole>
     <MinDropContainerRespawnTime>5</MinDropContainerRespawnTime>
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
     <SyncDistance>3000</SyncDistance>
-    <ExperimentalMode>true</ExperimentalMode>
+    <ExperimentalMode>false</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
@@ -119,6 +119,7 @@
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>false</EnableSelectivePhysicsUpdates>
@@ -156,32 +157,27 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Space Just Got Real (1.188 Update 4)">
+    <ModItem FriendlyName="*Unknown*">
       <Name>1136188499.sbm</Name>
       <PublishedFileId>1136188499</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Automatic Ore Pickup">
+    <ModItem FriendlyName="*Unknown*">
       <Name>657749341.sbm</Name>
       <PublishedFileId>657749341</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Midspace's Ship Speed 500 mod (skybox friendly)">
+    <ModItem FriendlyName="*Unknown*">
       <Name>379815146.sbm</Name>
       <PublishedFileId>379815146</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Ore Detector ++">
+    <ModItem FriendlyName="*Unknown*">
       <Name>2448691659.sbm</Name>
       <PublishedFileId>2448691659</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-07-09T04:25:22.3813189+02:00</LastSaveTime>
+  <SessionName>World2</SessionName>
+  <LastSaveTime>2024-07-12T01:36:26.3109335+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
