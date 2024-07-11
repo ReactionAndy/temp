@@ -1,0 +1,99 @@
+2024-07-09 04:27:56.026 - Thread:   1 ->  Log Started
+2024-07-09 04:27:56.027 - Thread:   1 ->  Timezone (local - UTC): 2h
+2024-07-09 04:27:56.027 - Thread:   1 ->  App Version: 01_204_018
+2024-07-09 04:27:56.027 - Thread:   1 ->  Space Engineers DS GUI Started
+2024-07-09 04:27:56.027 - Thread:   1 ->  Is Service DS: True
+2024-07-09 04:27:56.027 - Thread:   1 ->  Service Name: World
+2024-07-09 04:27:56.174 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2024-07-09 04:27:56.175 - Thread:   1 ->     fb2a7c9c89833cda388348a7b498f5c7d7f92963
+2024-07-09 04:27:56.341 - Thread:   1 ->     Loading scenarios
+2024-07-09 04:27:56.341 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2024-07-09 04:27:56.341 - Thread:   7 ->  Loading available saves - START
+2024-07-09 04:27:56.341 - Thread:   8 ->  Loading available saves - START
+2024-07-09 04:27:56.341 - Thread:   7 ->  Loading available saves - END
+2024-07-09 04:27:56.342 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.343 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2024-07-09 04:27:56.343 - Thread:   1 ->     fb2a7c9c89833cda388348a7b498f5c7d7f92963
+2024-07-09 04:27:56.347 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien System\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.349 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Asteroid Armory\Sandbox_config.sbc
+2024-07-09 04:27:56.350 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Crashed Red Ship\Sandbox_config.sbc
+2024-07-09 04:27:56.352 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Dead Drop Arena\Sandbox_config.sbc
+2024-07-09 04:27:56.355 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Distant Moons\Sandbox_config.sbc
+2024-07-09 04:27:56.359 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.360 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.362 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Empty World\Sandbox_config.sbc
+2024-07-09 04:27:56.363 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Green Station\Sandbox_config.sbc
+2024-07-09 04:27:56.365 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Home System\Sandbox_config.sbc
+2024-07-09 04:27:56.366 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Lone Survivor\Sandbox_config.sbc
+2024-07-09 04:27:56.368 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.372 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.373 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.375 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.376 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Petram Orbiter\Sandbox_config.sbc
+2024-07-09 04:27:56.378 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship\Sandbox_config.sbc
+2024-07-09 04:27:56.379 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship 2\Sandbox_config.sbc
+2024-07-09 04:27:56.384 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Rival Platforms\Sandbox_config.sbc
+2024-07-09 04:27:56.387 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2024-07-09 04:27:56.388 - Thread:   8 ->  Loading available saves - END
+2024-07-09 04:27:56.507 - Thread:   1 ->     Loading scenarios
+2024-07-09 04:27:56.507 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2024-07-09 04:27:56.507 - Thread:   9 ->  Loading available saves - START
+2024-07-09 04:27:56.507 - Thread:   8 ->  Loading available saves - START
+2024-07-09 04:27:56.507 - Thread:   8 ->  Loading available saves - END
+2024-07-09 04:27:56.508 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.512 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien System\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.513 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Asteroid Armory\Sandbox_config.sbc
+2024-07-09 04:27:56.515 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Crashed Red Ship\Sandbox_config.sbc
+2024-07-09 04:27:56.517 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Dead Drop Arena\Sandbox_config.sbc
+2024-07-09 04:27:56.520 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Distant Moons\Sandbox_config.sbc
+2024-07-09 04:27:56.522 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.525 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.527 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Empty World\Sandbox_config.sbc
+2024-07-09 04:27:56.528 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Green Station\Sandbox_config.sbc
+2024-07-09 04:27:56.531 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Home System\Sandbox_config.sbc
+2024-07-09 04:27:56.532 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Lone Survivor\Sandbox_config.sbc
+2024-07-09 04:27:56.535 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.538 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.540 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\PC\Sandbox_config.sbc
+2024-07-09 04:27:56.542 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\XBox\Sandbox_config.sbc
+2024-07-09 04:27:56.543 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Petram Orbiter\Sandbox_config.sbc
+2024-07-09 04:27:56.546 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship\Sandbox_config.sbc
+2024-07-09 04:27:56.547 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship 2\Sandbox_config.sbc
+2024-07-09 04:27:56.550 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Rival Platforms\Sandbox_config.sbc
+2024-07-09 04:27:56.553 - Thread:   9 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2024-07-09 04:27:56.555 - Thread:   9 ->  Loading available saves - END
+2024-07-09 04:27:56.653 - Thread:   1 ->  Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2024-07-09 04:29:34.914 - Thread:   1 ->  Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2024-07-09 04:34:33.525 - Thread:   1 ->  Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2024-07-09 04:34:33.613 - Thread:   1 ->  Saving Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\World\Saves\World 07-09-2024 04-34-33\Sandbox_config.sbc
+2024-07-09 04:34:33.614 - Thread:   9 ->  Loading available saves - START
+2024-07-09 04:34:33.614 - Thread:   8 ->  Loading available saves - START
+2024-07-09 04:34:33.615 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien Planet\PC\Sandbox_config.sbc
+2024-07-09 04:34:33.621 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Alien System\XBox\Sandbox_config.sbc
+2024-07-09 04:34:33.622 - Thread:   9 ->     Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\World\Saves\World 07-09-2024 04-34-33\Sandbox_config.sbc
+2024-07-09 04:34:33.622 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Asteroid Armory\Sandbox_config.sbc
+2024-07-09 04:34:33.624 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Crashed Red Ship\Sandbox_config.sbc
+2024-07-09 04:34:33.626 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Dead Drop Arena\Sandbox_config.sbc
+2024-07-09 04:34:33.629 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Distant Moons\Sandbox_config.sbc
+2024-07-09 04:34:33.631 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\PC\Sandbox_config.sbc
+2024-07-09 04:34:33.631 - Thread:   9 ->  Loading available saves - END
+2024-07-09 04:34:33.634 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\XBox\Sandbox_config.sbc
+2024-07-09 04:34:33.635 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Empty World\Sandbox_config.sbc
+2024-07-09 04:34:33.636 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Green Station\Sandbox_config.sbc
+2024-07-09 04:34:33.638 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Home System\Sandbox_config.sbc
+2024-07-09 04:34:33.639 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Lone Survivor\Sandbox_config.sbc
+2024-07-09 04:34:33.641 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\PC\Sandbox_config.sbc
+2024-07-09 04:34:33.642 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Mars Planet\XBox\Sandbox_config.sbc
+2024-07-09 04:34:33.645 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\PC\Sandbox_config.sbc
+2024-07-09 04:34:33.647 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Moon Base\XBox\Sandbox_config.sbc
+2024-07-09 04:34:33.648 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Petram Orbiter\Sandbox_config.sbc
+2024-07-09 04:34:33.649 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship\Sandbox_config.sbc
+2024-07-09 04:34:33.650 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Red Ship 2\Sandbox_config.sbc
+2024-07-09 04:34:33.653 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Rival Platforms\Sandbox_config.sbc
+2024-07-09 04:34:33.656 - Thread:   8 ->     Loading Sandbox world configuration file E:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Star System\Sandbox_config.sbc
+2024-07-09 04:34:33.658 - Thread:   8 ->  Loading available saves - END
+2024-07-09 04:34:33.717 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\World\Saves\World 07-09-2024 04-34-33\Sandbox_config.sbc
+2024-07-09 04:34:43.087 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\World\Saves\World 07-09-2024 04-34-33\Sandbox_config.sbc
+2024-07-09 04:35:23.448 - Thread:   1 ->  Loading Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\World\Saves\World 07-09-2024 04-34-33\Sandbox_config.sbc
+2024-07-09 04:35:23.449 - Thread:   1 ->  Saving Sandbox world configuration file C:\ProgramData\SpaceEngineersDedicated\World\Saves\World 07-09-2024 04-34-33\Sandbox_config.sbc
+2024-07-09 04:35:24.727 - Thread:   1 ->  Log Closed
