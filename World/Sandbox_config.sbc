@@ -17,7 +17,7 @@
     <TotalPCU>100000</TotalPCU>
     <PiratePCU>50000</PiratePCU>
     <MaxFactionsCount>0</MaxFactionsCount>
-    <BlockLimitsEnabled>PER_FACTION</BlockLimitsEnabled>
+    <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
@@ -63,7 +63,7 @@
     <SunRotationIntervalMinutes>119.999992</SunRotationIntervalMinutes>
     <EnableJetpack>true</EnableJetpack>
     <SpawnWithTools>true</SpawnWithTools>
-    <BlueprintShareTimeout>24</BlueprintShareTimeout>
+    <BlueprintShareTimeout>30</BlueprintShareTimeout>
     <BlueprintShare>true</BlueprintShare>
     <StartInRespawnScreen>false</StartInRespawnScreen>
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
@@ -87,7 +87,7 @@
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
-    <TrashRemovalEnabled>true</TrashRemovalEnabled>
+    <TrashRemovalEnabled>false</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
     <TrashFlagsValue>7706</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
@@ -158,6 +158,11 @@
   </Settings>
   <Mods>
     <ModItem FriendlyName="*Unknown*">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
       <Name>1136188499.sbm</Name>
       <PublishedFileId>1136188499</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -178,6 +183,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <SessionName>World2</SessionName>
-  <LastSaveTime>2024-07-12T01:36:26.3109335+02:00</LastSaveTime>
+  <SessionName>World</SessionName>
+  <LastSaveTime>2024-07-12T07:16:16.6560826+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
